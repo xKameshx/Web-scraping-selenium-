@@ -53,7 +53,3 @@ Gucci: https://www.gucci.com/
 Output
 
 The script saves the scraped data in a structured manner within the current working directory. Each website has its own folder, and within each website folder, data is organized by categories and product titles.
-
-Disclaimer
-
-This script is for educational purposes only. Use it responsibly and in compliance with the terms of service of the respective websites.
