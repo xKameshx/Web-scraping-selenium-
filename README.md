@@ -5,9 +5,13 @@ Description
 This Python script is designed to scrape product information from various fashion websites. It currently supports the following websites:
 
 Zara
+
 Pryka
+
 Papa Don't Preach
+
 Kshitij Jalori
+
 Gucci
 
 The script utilizes Selenium for web scraping and BeautifulSoup for HTML parsing.
@@ -17,7 +21,9 @@ Prerequisites
 Make sure you have the following installed:
 
 Python (version 3.6 or higher)
+
 Google Chrome browser
+
 ChromeDriver installed and added to your system's PATH
 
 Install the required Python packages using:
@@ -35,9 +41,13 @@ python web_scraping_script.py https://pryka.in/product/off-white-bloom-maxi-dres
 Supported Websites
 
 Zara: https://www.zara.com/
+
 Pryka: https://pryka.in/
+
 Papa Don't Preach: https://www.papadontpreach.com/
+
 Kshitij Jalori: https://kshitijjalori.com/
+
 Gucci: https://www.gucci.com/
 
 Output
