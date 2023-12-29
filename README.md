@@ -1,6 +1,7 @@
 Web Scraping Script
 
 Description
+
 This Python script is designed to scrape product information from various fashion websites. It currently supports the following websites:
 
 Zara
